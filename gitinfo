@@ -1,0 +1,13 @@
+1st will do -yum install git
+2nd will create ad directory and go to the perticular dir-
+3rd use - git init 
+4th we can make file or data hear 
+5th use -git add . " to add the code to local repo
+6th use - git commit -m "massage"
+7th git status
+8th git log
+9th git show ( commit id )
+10th git remote add origin ( url of repo which code need to push)
+11th pit push -u origin master 
+use username and password og github accont 
+* This is setps to put code to workspace -local repo-central repo *
